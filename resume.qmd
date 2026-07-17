@@ -1,91 +1,86 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jonathan Litardo's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jonathan Litardo
+Cybersecurity Student | Data Science Certificate | CompTIA Security+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
+<a href="mailto:lit23005@byui.edu">lit23005@byui.edu</a>
+| <a href="https://www.linkedin.com/in/jonathan-litardo">LinkedIn</a>
+| <a href="https://github.com/jonathanlitardo">GitHub</a>
+<!-- | <a href="https://github.com/jonathanlitardo/jonathanlitardo.github.io/blob/gh-pages/resume.pdf">Download PDF</a> -->
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Pursuing a B.S. in Cybersecurity with a Data Science Certificate at Brigham Young University-Idaho.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Incident response, threat detection, network monitoring, vulnerability assessment, risk analysis, log correlation
 
+### Interests
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Capture the Flag (CTF) competitions, cloud security architecture, open-source security tooling
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`March 2027 (expected)`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Bachelor of Science in Cybersecurity, Minor in IT Fundamentals, Data Science Certificate
+- Relevant Coursework: Network Security Analysis, Incident Response, Threat Intelligence, Security Operations, Security Platform
 
-- Sizar
+`March 2021`
+__Jose Domingo de Santistevan Technical High School__, Guayaquil, Ecuador
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Technical Diploma, focus in Object-Oriented Programming, Network Infrastructure, Virtualization
 
-- Fellow
+## Certifications
 
+`July 2025`
+CompTIA Security+ (SY0-701)
 
+## Coursework
 
-## Awards
+`April 2025 - June 2025`
+__CYBER301 Network Security Lab__, Brigham Young University - Idaho
 
-`2012`
-President, *Royal Society*, London, UK
+- Reduced false positive rate by 40% in network threat classification by analyzing 1,000+ daily packets in Wireshark and building custom detection signatures
+- Conducted vulnerability assessments using Kali Linux penetration testing tools to identify critical security weaknesses across simulated enterprise networks
+- Contained and documented 15+ simulated breach scenarios by executing NIST-aligned incident response playbooks including containment, eradication, and lessons-learned reporting
+- Developed custom detection queries and generated detailed technical reports documenting threat patterns and remediation recommendations
+- Collaborated with team members to correlate security logs and identify attack vectors in multi-stage breach scenarios
 
-Associate, *French Academy of Science*, Paris, France
+## Experience
 
+`April 2025 - Present`
+__Plumber Assistant__, BYU-Idaho Mechanical Operations, Rexburg, ID
 
+- Resolved 5-10 weekly maintenance requests with a 95%+ on-time completion rate by triaging urgency and coordinating cross-building schedules
+- Performed 8+ critical installations including toilets and faucets in student housing, ensuring compliance with plumbing codes and safety standards
+- Eliminated preventable water damage events by implementing proactive inspection checklists for 10+ building systems, reducing emergency callouts
 
-## Publications
+`April 2024 - December 2025`
+__Custodial Technician__, BYU-Idaho Facilities Services, Rexburg, ID
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Maintained service continuity across 5+ facilities during off-peak shifts by independently managing workload without direct supervision, meeting 100% of scheduled deadlines
+- Cut supply retrieval time by reorganizing inventory systems across multiple shifts, improving coordination between 10+ team members
 
-### Journals
+## Technical Skills
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- __Security Operations:__ Incident Response, Threat Detection, Network Monitoring, Vulnerability Assessment, Risk Analysis, Log Correlation
+- __Security Platforms:__ Wireshark, Nmap, Kali Linux, SIEM Tools, Active Directory, Endpoint Security
+- __Technical Proficiencies:__ Linux Command Line, Virtual Machines, Docker, GitHub Actions CI/CD, AWS EC2
+- __Programming:__ Python, JavaScript, SQL, HTML/CSS, React, PowerShell (basic), Bash, C++
+- __Security Frameworks:__ NIST Cybersecurity Framework, Defense in Depth, CIA Triad, OWASP Top 10
 
-`1669`
-Lectiones opticæ.
+## Additional Information
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- Languages: English (Fluent), Spanish (Native)
+- Active participant in Capture The Flag (CTF) competitions, studying cloud security architectures, and contributing to open-source security tool development
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2026 -->
